@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 ---
 
-## How to run (training / experimentation)
+## How to run (experimentation)
 
 There is **no separate training script** in this repo. Everything runs inside the notebook.
 
