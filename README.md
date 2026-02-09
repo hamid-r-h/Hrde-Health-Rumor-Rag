@@ -136,6 +136,7 @@ Run the evaluation section in the notebook:
 
 ---
 
+![alt text](image-1.png)
 ## Troubleshooting
 
 **RRR averages are `null`**  
