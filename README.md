@@ -150,12 +150,3 @@ Reduce `FINAL_K`, `TOP_N_FAISS`, `TOP_N_BM25`, disable HyDE, or use a smaller LL
 
 ---
 
-## Citation
-
-If you use this notebook in academic work, please cite the HRDE paper and the HealthRCN dataset (see the paper’s bibliography / dataset card).
-
----
-
-## License
-
-Add a `LICENSE` file (MIT / Apache-2.0 / etc.) to define usage terms.
